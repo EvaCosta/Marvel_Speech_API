@@ -20,7 +20,7 @@ JavaScript.
 <ul>
     <li>TS = timestamp</li>   
     <li>PUB_KEY = chave publica obtida no site da marvel</li>  
-    <li>HASH = combinação do md5 do timestamp + privateKey publicKey</li>  
+    <li>HASH = combinação do md5 do timestamp + privateKey + publicKey</li>  
 </ul>
 
 ### Site para obter a chave
