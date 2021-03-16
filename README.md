@@ -16,6 +16,17 @@ JavaScript.
 
 É necessário fornecer as chaves para uso da API da Marvel.
 
+<p>Onde:<\p>
+<ul>
+    <li>TS = timestamp</li>   
+    <li>PUB_KEY = chave publica obtida no site da marvel</li>  
+    <li>HASH = combinação do md5 do timestamp + privateKey publicKey</li>  
+<\ul>
+
+<p>Site para obter a chave:<\p>
+<a href=https://developer.marvel.com/account>Marvel</a>
+
+
 ###  Demonstração de uso
 
 #### Tela Principal
